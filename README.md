@@ -1,1 +1,1 @@
-# tips-for-studying-and-working-abroad-ja
+# Tips for studying and working abroad
