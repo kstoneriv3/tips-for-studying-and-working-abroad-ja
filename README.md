@@ -27,4 +27,5 @@
   - あとは機械学習系なら、Tubingen、KAUST、MBZUAI、INSAIT（OISTみたいなもん）
 - 海外Algo Trading就活
   - トップの会社に入ると学部新卒年収3000〜5000万みたいな世界がある
-- 自分がいちいち書くまでもないが、個人的に大事だと思う話
+- [自分がいちいち書くまでもないが、もっと知られていても良いんじゃないかと思う話](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/misc.md)
+
