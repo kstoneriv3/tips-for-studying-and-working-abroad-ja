@@ -24,7 +24,7 @@
 - ETH Zurichで修士を取ると、どういったご利益があるか
 - お金のかからない非英米留学
   - スイスとドイツはETH, EPFL, TUMとか
-  - あとは機械学習系なら、Tubingen、KAUST、MBZUAI、INSAIT（OISTみたいなもん）
+  - あとは機械学習系なら、KAUST、MBZUAI、INSAIT（OISTみたいなもん）
 - [海外Algo Trading就活](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/algo-trading-job-hunting.md)
   - トップの会社に入ると学部新卒年収3000〜5000万みたいな世界がある
 - [自分がいちいち書くまでもないが、もっと知られていても良いんじゃないかと思う話](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/misc.md)
