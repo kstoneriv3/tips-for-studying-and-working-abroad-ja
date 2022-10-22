@@ -26,6 +26,6 @@
   - スイスとドイツはETH, EPFL, TUMとか
   - あとは機械学習系なら、KAUST、MBZUAI、INSAIT（OISTみたいなもん）
 - [海外Algo Trading就活](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/algo-trading-job-hunting.md)
-  - トップの会社に入ると学部新卒年収3000〜5000万みたいな世界がある
+  - トップの会社に入ると学部新卒年収5000万〜1億みたいな世界がある
 - [自分がいちいち書くまでもないが、もっと知られていても良いんじゃないかと思う話](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/misc.md)
 
