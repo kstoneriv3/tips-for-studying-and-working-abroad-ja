@@ -21,7 +21,7 @@
 ## 書いた話題／今後何か書くかもしれない話題
 
 - ETH Zurichでの交換留学→大学院進学の再現方法
-- ETH Zurichで修士を取ると、どういったご利益があるか
+- ETH Zurichで修士を取ると、どういったご利益があるか（[下書き](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/benefit-of-getting-masters-at-ethz.md)）
 - お金のかからない非英米留学
   - スイスとドイツはETH, EPFL, TUMとか
   - あとは機械学習系なら、KAUST、MBZUAI、INSAIT（OISTみたいなもん）
