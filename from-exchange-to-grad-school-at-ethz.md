@@ -60,7 +60,7 @@ GPAをハックするには、自分のレベルにあった講義を選ぶの�
 
 #### 学部の必修科目は難しい
 
-ETHのだいたいの学部は、スイスの高校卒業者は誰でも入れるが、入学試験の代わりに学部の必修科目で入学者をふるい落とすという仕組みになっています。そのため、学部では成績の付け方が厳しくなります。例えば、CS学部生の点数分布が、[CSの学生団体の記事](https://vis.ethz.ch/en/visionen/archive/)に載っていますが、これは修士よりも明らかに厳しい成績の付け方だと言えます。（例：2021年の[2号](https://vis.ethz.ch/en/visionen/archive/issue/visionen-2021-2/)、[4号](https://vis.ethz.ch/en/visionen/archive/issue/visionen-2021-4/)とか）また、[後述の博論76ページ](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/117220/eth-49186-02.pdf#page=92)の学部と修士のGPAの比較を見ても同じ傾向が見て取れます。一方で、修士の講義で落単するのは珍しいくらいなので、明らかに成績の付け方が違うと言えるでしょう。
+ETHのだいたいの学部は、スイスの高校卒業者は誰でも入れるが、入学試験の代わりに学部の必修科目で入学者をふるい落とすという仕組みになっています。そのため、学部では成績の付け方が厳しくなります。例えば、CS学部生の点数分布が、[CSの学生団体の記事](https://vis.ethz.ch/en/visionen/archive/)に載っていますが、これは修士よりも明らかに厳しい成績の付け方だと言えます。（例：2021年の[第2号](https://vis.ethz.ch/en/visionen/archive/issue/visionen-2021-2/)、[第4号](https://vis.ethz.ch/en/visionen/archive/issue/visionen-2021-4/)とか）また、[後述の博論76ページ](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/117220/eth-49186-02.pdf#page=92)の学部と修士のGPAの比較を見ても同じ傾向が見て取れます。一方で、修士の講義で落単するのは珍しいくらいなので、明らかに成績の付け方が違うと言えるでしょう。
 
 #### 試験形式を選ぶ
 
