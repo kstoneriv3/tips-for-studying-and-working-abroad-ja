@@ -178,7 +178,7 @@ ETHでは確か修士は３つまで併願可能です。もし興味のある�
  - IELTS
    - L7.0, R8.5, W6.5, S7.0
 
-自分がETHやEPFLの受験時に提出した書類を見たいという方がいらっしゃいましたら、XPLANEのSlackとかTwitter（@kstoneriv）とかで個別にご連絡ください。
+自分がETHやEPFLの受験時に提出した書類を見たいという方がいらっしゃいましたら、XPLANEのSlackとかTwitter（@kstoneriv）とかで個別にご連絡ください。レスポンスがものすごく遅いときもあるのでご了承ください。
 
 ### 合否
 - Data Science…不合格
