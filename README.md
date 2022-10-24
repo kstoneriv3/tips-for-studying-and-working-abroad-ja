@@ -29,3 +29,5 @@
   - トップの会社に入ると学部新卒年収5000万〜1億みたいな世界がある
 - [自分がいちいち書くまでもないが、もっと知られていても良いんじゃないかと思う話](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/misc.md)
 
+## 注意
+記事の内容は2022年10月末時点での個人的なの見解であり、情報の正確性の保証はありません。
