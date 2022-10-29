@@ -14,7 +14,7 @@
 ## 関連記事
 
 この記事はETHの交換留学についてある程度理解している人向けに書かれています。Google検索すれば大体分かることですが、交換留学自体の記事は、[東大の全学交換留学の留学体験談](https://www.u-tokyo.ac.jp/adm/go-global/ja/report-list-USTEP.html#ETH)あたりを読んでください。
-ETHに修士留学したその先が気になる方は、その後PhDに進学された[朝倉さんのインタビュー記事](https://www.chem-station.com/blog/2020/06/eth-zurich.html)とかが参考になると思います。自分もETHで修士を取るとどんなご利益があるかについて書こうと思ったのですが途中で力尽きています。だた、その記事の[下書き](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/benefit-of-getting-masters-at-ethz.md)は公開しているので、興味のある人は覗いてみると面白いかもしれません。
+ETHに修士留学したその先が気になる方は、その後PhDに進学された[朝倉さんのインタビュー記事](https://www.chem-station.com/blog/2020/06/eth-zurich.html)とかが参考になると思います。自分もETHで修士を取るとどんなご利益があるかについて記事を書こうと思ったのですが途中で力尽きています。だた、その記事の[下書き](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/benefit-of-getting-masters-at-ethz.md)は公開しているので、興味のある人は覗いてみると面白いかもしれません。
 
 
 ## 注意
@@ -218,7 +218,7 @@ ETHにある程度の期待感をもって出願できるだけの出願書類�
 - GRE
   - 6h * 2.5 weeks
   - 同じく出願の２ヶ月前までには受験しておくべき
-- Motivation Letter（＋推薦状の下書き）
+- SoP執筆（＋推薦状の下書き）
   - 6h * 2 months
   - 出願者がオンラインで出願を完了してはじめて、推薦者に入力フォームがメールで届くので、出願締め切りよりも早め出願を終えておくと、推薦者が入力する時間を取りやすくなって良い
   - 自分は作文とか苦手なのですが、200±100時間くらいかかったと思います
