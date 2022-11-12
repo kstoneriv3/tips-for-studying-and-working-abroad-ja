@@ -67,6 +67,8 @@ Tech系企業の給与が分かるLevels.fyiというサイトを使うと、上
 
 加えて、Quant Researcherの場合には学歴の要求水準が上がり、理数系のPhDを要求する会社もいくつかあります。ただPhDを持っていなくても、数学オリンピックや情報オリンピックのメダリスト、GPAが異常に高い人などはほぼ確実にレジュメスクリーニングを通過できます。ちなみに自分がいまの就職先でインターンした後に応募したQuant Researcher職のレジュメの通過率は50\~60%くらいでした。理数系PhDというのはある程度の加点要素にはなるはずですが、必須というわけではないと個人的には思っています。こちらの海外クオンツ就活についての記事（[内定者が考えるクオンツ・ヘッジファンドの就職対策](https://hajime77.com/entry/quants-hedge-fund-preparation/)）ではPhD必須と述べられていますが、これよりは若干、要求水準が低いのかなという感じです。
 
+もっと、詳しくResume Screeningについて知りたい方は、上記の[New Grad 2022 Quant Jobs chart 🐱‍💻](https://github.com/quantprep/quantnewgrad2022)などのリストにある会社の社員の経歴をLinkedIn(https://www.linkedin.com/)で調べてみると良いと思います。どのくらいの学歴／インターン歴／その他レジュメ上のスペックで、どの会社でインターン／就職できたかという事が大体分かります。
+
 
 ### Technical Screening
 
