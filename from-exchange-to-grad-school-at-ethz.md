@@ -13,7 +13,7 @@
 
 ## 関連記事
 
-この記事はETHの交換留学についてある程度理解している人向けに書かれています。Google検索すれば大体分かることですが、交換留学自体の記事は、[東大の全学交換留学の留学体験談](https://www.u-tokyo.ac.jp/adm/go-global/ja/report-list-USTEP.html#ETH)あたりを読んでください。
+この記事はETHの交換留学についてある程度理解している人向けに書かれています。Google検索すれば大体分かることですが、交換留学自体の記事は、[東大の全学交換留学の留学体験談](https://www.u-tokyo.ac.jp/adm/go-global/ja/report-list-USTEP.html#ETH)あたりを読んでください。あと、自分と同じ学科の後輩が[学部３年で交換留学して書いた記事](https://github.com/Maemaemaeko/tips-for-exchange)があるので、こちらも参考にしてみてください。
 ETHに修士留学したその先が気になる方は、その後PhDに進学された[朝倉さんのインタビュー記事](https://www.chem-station.com/blog/2020/06/eth-zurich.html)とかが参考になると思います。自分もETHで修士を取るとどんなご利益があるかについて記事を書こうと思ったのですが途中で力尽きています。だた、その記事の[下書き](https://github.com/kstoneriv3/tips-for-studying-and-working-abroad-ja/blob/main/benefit-of-getting-masters-at-ethz.md)は公開しているので、興味のある人は覗いてみると面白いかもしれません。
 
 
